@@ -1,6 +1,7 @@
 # pranav-demo
+
 first entry on git
 <br>
-Author-Manikanth
+Author-Manikanth(Mani)
 <br>
 Director-nani
